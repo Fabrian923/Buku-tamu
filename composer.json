@@ -1,0 +1,13 @@
+{
+    "name": "user/buku-tamu",
+    "description": "composer require phpoffice/phpspreadsheet",
+    "authors": [
+        {
+            "name": "Fabrian923",
+            "email": "rianfabrian9@gmail.com"
+        }
+    ],
+    "require": {
+        "phpoffice/phpspreadsheet": "^5.10"
+    }
+}
